@@ -311,8 +311,8 @@ Learn helpful tips, tutorials and insights from these people :)
 | vexorian ([user:vexorian]) | [vexorian's blog](http://www.vexorian.com/) |
 | Ashar Fuadi ([user:fushar]) | [Fushar's blog](http://fusharblog.com/) |
 | LiJie Chen ([user:WJMZBMR]) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
-| Huang I-Wen ([user:dreamoon]) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/) |
-| Shiang-Yun Yang ([user:morris1028]) | [Morris' Blog (Chinese)](http://morris821028.github.io/) |
+| Huang I-Wen ([user:doreamon], dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/) |
+| Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese)](http://morris821028.github.io/) |
 | Yuhao Du ([user:TooDifficuIt], TooSimple, xudyh) | [xudyh (Chinese)](http://xudyh.github.io/) |
 
 ### Youtube and Livestreams
